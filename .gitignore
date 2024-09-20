@@ -1,0 +1,4 @@
+venv
+.idea
+mosquitto/data
+mosquitto/log
